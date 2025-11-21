@@ -1,10 +1,3 @@
-Number of total sales 
-total sales per region
-Total sales per model
-Most prepared fuel type and transmission
-most prepared engine size
-
-
 ## Background
 For my first project, I created an interactive BMW Sales Dashboard to illustrate and analyze sales performance trends from 2010 through 2024. 
 
