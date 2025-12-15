@@ -1,5 +1,5 @@
 ## Background
-For my first project, I created an interactive BMW Sales Dashboard to illustrate and analyze sales performance trends from 2010 through 2024. 
+For my first project, I am currently working on an interactive BMW Sales Dashboard to illustrate and analyze sales performance trends from 2010 through 2024. 
 
 ## Key Features
 - Total sales from 2010 to 2024.
