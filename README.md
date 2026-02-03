@@ -1,5 +1,5 @@
 ## Background
-For my first project, I am currently working on an interactive BMW Sales Dashboard to illustrate and analyze sales performance trends from 2010 through 2024. 
+First Power BI project, created to practice and strengthen my data visualization and analytics skills. The project focuses on exploring raw data, cleaning it where necessary, and building interactive dashboards to uncover insights.
 
 ## Key Features
 - Total sales from 2010 to 2024.
